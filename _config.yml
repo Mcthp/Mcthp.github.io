@@ -3,3 +3,4 @@ deploy:
   repo: https://github.com/Mcthp/Mcthp.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+theme: jekyll-theme-cayman
